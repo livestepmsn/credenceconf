@@ -1,0 +1,1 @@
+const WORKER_URL = 'https://tgaw.unatalerikagon.workers.dev';
